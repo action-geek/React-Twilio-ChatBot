@@ -1,4 +1,4 @@
-const server = 'https://test-twilio-pace.herokuapp.com/';
+const server = 'https://test-twilio-pace.herokuapp.com';
 const baseURL =
   process.env.NODE_ENV === 'development'
     ? 'http://localhost:2000'
